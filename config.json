@@ -1,0 +1,8 @@
+{
+    "source_path": "/home/guilherme/tmp/source_path",
+    "destination_path": "/home/guilherme/tmp/destination_path",
+    "classes": [
+      {"name": "Cat", "shortcut_key":  "a"},
+      {"name": "Dog", "shortcut_key":  "s"}
+        ]
+}
