@@ -18,22 +18,22 @@ Just run `fast_categorizer2` or the `__main__.py` file from the terminal.
 
 2. Select the category of the displayed image with the buttons on the right or the assigned keyboard shortcut. Multiple categories can be selected. The empty button will unassign any selected categories.
 
-    ![image01](https://github.com/guiseduardo/fast_categorizer2/blob/master/res/01.jpg?raw=true)
+    ![image01](https://github.com/guiseduardo/fast_categorizer2/blob/main/res/01.png?raw=true)
 
 3. Once categories are selected, click **Next** or press the right arrow in your keyboard to go to the next image. Likewise, the **Prev** button and the left arrow can be used to go back a frame.
 
-   ![image02](https://github.com/guiseduardo/fast_categorizer2/blob/master/res/02.jpg?raw=true)
+   ![image02](https://github.com/guiseduardo/fast_categorizer2/blob/main/res/02.png?raw=true)
 
 4. Once you reach the last image, a message will be printed in the terminal.
 
-   ![image03](https://github.com/guiseduardo/fast_categorizer2/blob/master/res/03.jpg?raw=true)
+   ![image03](https://github.com/guiseduardo/fast_categorizer2/blob/main/res/03.png?raw=true)
 
 5. The debug button will print information of currently selected categories for your dataset.
 
-   ![image04](https://github.com/guiseduardo/fast_categorizer2/blob/master/res/04.jpg?raw=true)
+   ![image04](https://github.com/guiseduardo/fast_categorizer2/blob/main/res/04.png?raw=true)
 
 6. At any point in your dataset you can quit the program and the categorized images will be sorted to their respective directories. To quit press the **Escape** button or just close the window.
 
-   ![image05a](https://github.com/guiseduardo/fast_categorizer2/blob/master/res/05a.jpg?raw=true)
+   ![image05a](https://github.com/guiseduardo/fast_categorizer2/blob/main/res/05a.png?raw=true)
 
-   ![image05b](https://github.com/guiseduardo/fast_categorizer2/blob/master/res/05b.jpg?raw=true)
+   ![image05b](https://github.com/guiseduardo/fast_categorizer2/blob/main/res/05b.png?raw=true)
